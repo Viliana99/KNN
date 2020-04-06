@@ -1,14 +1,6 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[1]:
-
-
 import numpy as np
 from nearest_neighbors import *
 
-
-# In[ ]:
 
 def kfold(n, n_folds):
     k_list = []
